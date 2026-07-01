@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0582/y/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中觀論頌講記
+  edition:
+    short: 'y'
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y05/Y05n0005.xml
+    old_id: Y05n0005
+hash: sha256:349d574b8b760225b1ac5274049c4be6c3ac7abf06b617dc9a0717b50112f841

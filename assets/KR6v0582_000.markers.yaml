@@ -1,0 +1,11 @@
+canonical_identifier: bkk:krp/KR6v0582/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: old, offset: 0, content: '', id: KR6v0582_Y_000-0001a, 'n': 0001a, ed: 'Y', source_xml_id: Y05.0005.0001a.old}
+  - {type: page-break, offset: 0, content: '', id: KR6v0582_Y_000-0001a_dup2, 'n': 0001a, ed: 'Y', source_xml_id: Y05.0005.0001a}
+  - {type: line-break, offset: 0, content: '', id: KR6v0582_Y_000-0001a01, ed: 'Y', 'n': 0001a01}
+  - {type: line-break, offset: 0, content: '', id: KR6v0582_Y_000-0001a01_dup2, ed: 'Y', 'n': 0001a01}
+  body: []
+  back: []
+hash: sha256:f2c3f379a73342213ed81d553469ac9bd133faa2c5cb07459fbd23b0c443a690
